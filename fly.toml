@@ -1,0 +1,8 @@
+# fly.toml file generated for near-discord-bot on 2022-10-17T02:47:40+02:00
+
+app = "near-discord-bot"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
